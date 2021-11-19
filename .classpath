@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Caro Chest/Caro/src"/>
+	<classpathentry kind="lib" path="Caro Chest/Caro/dist/Caro.jar"/>
+	<classpathentry kind="lib" path="Caro Chest/Caro/dist/lib/dnsjava-2.0.0.jar"/>
+	<classpathentry kind="lib" path="Caro Chest/Caro/dist/lib/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="Caro Chest/Caro/dist/lib/JTattoo-1.6.8.jar"/>
+	<classpathentry kind="lib" path="Caro Chest/Caro/dist/lib/mp3spi1.9.5.jar"/>
+	<classpathentry kind="output" path="Caro Chest/Caro/build/classes"/>
+</classpath>
